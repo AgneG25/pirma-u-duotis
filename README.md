@@ -13,5 +13,7 @@ Programa atspausdina įrėmintą pasisveikinimą, sudarytą iš 5 eilučių:
 
 ## Versijų istorija:
 v.1.0 galutinė programa, atpažįstama vartotojo lytis.
+
 v.0.2 programos patobulinimas, galima pasirinti rėmelio dydį ir įvesti vardą.
+
 v.0.1 pirminė programos versija.
