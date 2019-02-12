@@ -1,7 +1,7 @@
 ## Pirma užduotis
 # Programos tikslas:
 Programa atspausdina įrėmintą pasisveikinimą, sudarytą iš 5 eilučių:
-..* Pirma eilutė rėmelis, sudarytas iš *.
+..* Pirma eilutė rėmelis, sudarytas iš *. --
 ..* Antra eilutė prasideda ir baigiasi * simboliu, viduje tarpo simboliai.
 ..* Trečia eilutė prasideda * simboliu, tuomet tarpas, pasisveikinimas, vėl tarpas ir *.
 ..* Ketvirta eilutė analogiška antrai.
