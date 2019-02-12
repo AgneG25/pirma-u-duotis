@@ -3,7 +3,7 @@ CC = clang
 all:	pirma
 
 test: 	all
-	  	./pirma
+	./pirma
 
 clean:
-		rm -f *.o pirma
+	rm -f *.o pirma
