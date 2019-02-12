@@ -11,6 +11,10 @@ Programa atspausdina įrėmintą pasisveikinimą, sudarytą iš 5 eilučių:
 
 - Penkta eilutė analogiška pirmai.
 
+# Programos naudojimas:
+
+Įveskite savo vardą ir norimą rėmelio dydį.
+
 ## Versijų istorija:
 v.1.0 galutinė programa, atpažįstama vartotojo lytis.
 
